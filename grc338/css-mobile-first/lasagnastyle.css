@@ -9,24 +9,27 @@ img {
 
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 
+<style>
+  @import url("https://use.typekit.net/vxz8sgj.css");
+</style>
+
 body {
   background-color: rgb(242, 238, 233);
   font-family: sans-serif;
+  margin: 1em 2em 2em 0.5em;
 }
 h1 {
   color: rgb(140, 61, 43);
   font-size: 3em;
 }
 h2 {
-  @import url("https://use.typekit.net/pip1akx.css");
-  margin: 1em 2em 2em 0.5em;
+  margin: 1em 2em 3.5em 0.5em;
 }
 h3 {
   color: rgb(173, 80, 59);
   font-size: 1.5em;
-  margin: 1em 2em 2em 0.5em;
   }
 h4 {
   color: rgb(245 ,168, 91);
-  margin: 1em 2em 2em 0.5em;
+  margin: 1em 2em 3.5em 0.5em;
 }
