@@ -11,6 +11,9 @@ img {
 
 <style>
   @import url("https://use.typekit.net/vxz8sgj.css");
+  ul.a {
+  list-style-type: circle;
+  }
 </style>
 
 body {
