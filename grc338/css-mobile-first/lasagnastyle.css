@@ -18,6 +18,6 @@ h1 {
   font-size: 3em;
 }
 h3 {
-  color: rgb(173, 80, 59);
-  background-color: rgb(157, 189, 168)
-}
+  color: rgb(173, 80, 59);\
+  font-size: 2em;
+  }
