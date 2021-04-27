@@ -25,13 +25,15 @@ h1 {
 h2 {
   font-family: interstate, sans-serif;
   font-style: italic;
-  margin: 1em 2em 3.5em 0.5em;
+  margin: 1em 2em 2m 1.5em;
 }
 h3 {
   color: rgb(173, 80, 59);
   font-size: 1.5em;
+  margin: 1em 2em 3em 1.5em;
+
   }
 h4 {
   color: rgb(245 ,168, 91);
-  margin: 1em 2em 3.5em 0.5em;
+  margin: 1em 2em 3.5em 1.5em;
 }
