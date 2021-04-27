@@ -12,11 +12,14 @@ img {
 body {
   background-color: rgb(242, 238, 233);
   font-family: sans-serif;
-  margin: 1em 2em 1.5em 0.5em;
+  margin: 1em 2em 2em 0.5em;
 }
 h1 {
   color: rgb(140, 61, 43);
   font-size: 3em;
+}
+h2 {
+  margin: 1em 2em 3.5em 0.5em;
 }
 h3 {
   color: rgb(173, 80, 59);
@@ -24,4 +27,5 @@ h3 {
   }
 h4 {
   color: rgb(245 ,168, 91);
+  margin: 1em 2em 3.5em 0.5em;
 }
