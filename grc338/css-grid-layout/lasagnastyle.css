@@ -25,13 +25,15 @@ img {
 div.container {
   max-width: 40em;
   margin: 0 auto;
-  display: grid; 
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
 }
 
 h1 {
   color: rgb(140, 61, 43);
   font-size: 3em;
-   
+  grid-column: 1/3;
 }
 
 h2 {
