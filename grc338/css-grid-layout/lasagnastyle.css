@@ -25,6 +25,7 @@ img {
 div.container {
   max-width: 40em;
   margin: 0 auto;
+  display: grid; 
 }
 
 h1 {
