@@ -1,0 +1,30 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li{
+  display:inline;
+  list-style-type:none;
+  margin-right: 1em;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.4em;
+  text-transform: uppercase;
+}
+
+nav ul li a {
+  color: #6A954E;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #54733F;
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
