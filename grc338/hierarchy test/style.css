@@ -8,6 +8,11 @@ img {
     width: 100%;
 }
 
+h1 {
+  width: 6.5em;
+  margin-left: 1em;
+}
+
 nav ul {
   padding: 0;
 }
@@ -30,3 +35,5 @@ nav ul li a {
 nav ul li a:hover {
     color: #54733F;
 }
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
