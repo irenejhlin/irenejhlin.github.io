@@ -1,0 +1,33 @@
+/*CSS DOCUMENT*/
+
+<style>
+  @import url("https://use.typekit.net/vxz8sgj.css");
+</style>
+
+img {
+    width: 100%;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li{
+  display: inline;
+  list-style-type: none;
+  margin-right: 1em;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+nav ul li a {
+  color: #6A954E;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #54733F;
+}
