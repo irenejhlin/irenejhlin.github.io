@@ -78,3 +78,13 @@ nav ul li a {
 nav ul li a:hover {
     color: #54733F;
 }
+
+p a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #6A954E;
+}
+
+p a: hover{
+  color: #54733F;
+}
