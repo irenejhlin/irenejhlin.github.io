@@ -27,13 +27,17 @@ nav ul {
 nav ul li{
   display: inline;
   list-style-type: none;
-  margin-left: 1em
-  margin-right: 1em;
+  margin-left: 1em;
+  margin-right: 1.3em;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 1.4em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+body {
+  font-weight: regular;
 }
 
 nav ul li a {
