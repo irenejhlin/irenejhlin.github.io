@@ -10,34 +10,21 @@ img {
     width: 40%;
 }
 
-h1 {
-  width: 6.5em;
-  margin-left: 1em;
+h1, h2,, h3, h4, h5, h6, li{
+  margin: 1em 0 1em 1em
 }
 
-nav ul {
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
 
 nav ul li{
   display: inline;
   list-style-type: none;
   margin-left: 1em;
-  margin-right: 1.3em;
+  margin-right: 1em;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 1.4em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-}
-
-body {
-  font-weight: regular;
 }
 
 nav ul li a {
@@ -48,5 +35,3 @@ nav ul li a {
 nav ul li a:hover {
     color: #54733F;
 }
-
-/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
