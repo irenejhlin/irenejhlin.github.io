@@ -6,6 +6,11 @@ img {
     width: 100%;
 }
 
+h2 a href {
+  font-family: tomarik-display-shadow, sans-serif;
+  font-weight: 400
+}
+
 h1 {
   margin: 1em 1em 0em 1.2em;
   font-family: tomarik-display-shadow, sans-serif;
