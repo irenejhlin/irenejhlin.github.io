@@ -1,0 +1,108 @@
+/*CSS DOCUMENT*/
+
+@import url(https://use.typekit.net/plz7yee.css);
+
+img {
+    width: 100%;
+}
+
+h2 a href {
+  font-family: tomarik-display-shadow, sans-serif;
+  font-weight: 400
+}
+
+h1 {
+  margin: 1em 1em 0em 1.2em;
+  font-family: tomarik-display-shadow, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 6.5em;
+}
+
+h2 {
+  margin: 1em 2em 0.5em 1.5em;
+  font-family: tomarik-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 10em;
+}
+
+h3 {
+  margin: 1em 2em 2em 1.5em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4 {
+  margin: 1em 2em 1em 2.2em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h6 {
+  margin: 1em 2em 2em 1.5em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+li {
+  margin: 1em 2em 2em 1.5em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  margin: 0em 1.5em 0.5em 2.6em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav ul li{
+  display: inline;
+  list-style-type: none;
+  margin-left: 0em;
+  margin-right: 0.9em;
+  font-family: tablet-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+nav ul li a {
+  color: #6A954E;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #54733F;
+}
+
+p a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #6A954E;
+}
+
+p a: hover {
+  color: #54733F;
+}
+
+@media screen and (min-width: 40em){
+
+  header {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-top: 1em; 
+  }
+
+  header nav ul{
+  text-align: right;
+  }
+}
