@@ -1,0 +1,219 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">
+        <title>Irene Lin - Final project proposal</title>
+
+    </head>
+    <body>
+
+        <div class="container">
+
+            <h1>Final project proposal</h1>
+
+            <h2>Introduction</h2>
+
+            <p>Rix</p>
+
+            <p>Rix is a neighborhood restaurant, featuring a local rotating menu & wine list, highlighting the finest produce and artisan products. </p>
+
+            <h2>Target audience</h2>
+
+            <p>The people who use this site are people who want to have a good dining experience with friends and family. </p>
+
+            <p>People would use the site to see the hours, address, and online reservations, menu, online order to-go. Especially during covid, people will mostly go on restaurant websites to check out their menu to order online. </p>
+
+            <h2>Comparative analysis</h2>
+
+
+
+            <h3>Luna Red  </h3>
+
+            <p><a href="https://www.lunaredslo.com/">lunaredslo.com</a></p>
+
+            <img src="lunared-home.png" alt="Screenshot of the Home page of the Luna Red website." title="" />
+
+            <img src="lunared-about.png" alt="Screenshot of the About page of the Luna Red website." title="" />
+
+            <h3>Novo Restaurant and Lounge  </h3>
+
+            <p><a href="https://www.novorestaurant.com/">novorestaurant.com</a></p>
+
+            <img src="novo-home.png" alt="Screenshot of the Home page of the Novo Restaurant and Lounge website." title="" />
+
+            <img src="novo-about.png" alt="Screenshot of the About page of the Novo Restaurant and Lounge website." title="" />
+
+
+            <h3>Il Cortile  </h3>
+
+            <p><a href="https://ilcortileristorante.com/">ilcortileristorante.com</a></p>
+
+            <img src="ilcortile-home.png" alt="Screenshot of the Home page of the Il Cortile website." title="" />
+
+            <img src="ilcortile-about.png" alt="Screenshot of the About page of the Il Cortile website." title="" />
+
+
+            <h2>Website content</h2>
+
+
+           <nav>
+                 <ul>
+                    <li>Home</li>
+                    <li>Menu</li>
+                    <li>About Us</li>
+                    <li>Contact & Hours</li>
+                </ul>
+            </nav>
+
+            <section>
+
+					<h1> Home </h1>
+
+					<p>    Rix is a neighborhood restaurant, featuring a local rotating menu & wine list, highlighting the finest produce and artisan products.   </p>
+
+					<p>    [Inside of the restaurant.] </p>
+
+            </section>
+
+            <section>
+
+          <h1> Menu </h1>
+
+          <p>    [Platter spread.] </p>
+
+          <h3>Brunch</h3>
+
+            <ul>
+              <li>
+                <h4>pecan cinnamon roll</h4>
+                <p>with salted caramel</p>
+                <p>10</p>
+              </li>
+              <li>
+                <h4>prosciutto toast</h4>
+                <p>rusticana toast, prosciutto de parma, 8-minute egg, honey black pepper ricotta, avocado, serrano chile, blackberry, saba, pepita</p>
+                <p>20</p>
+              </li>
+              <li>
+                <h4>salmon scramble</h4>
+                <p>wild salmon, artichoke, swiss chard, pecorino scrambled eggs, endive, green bean, baby cauliflower salad with lemon vinaigrette, fine herb schmear, filone toast</p>
+                <p>19</p>
+              </li>
+              <li>
+                <h4>portobello benedict</h4>
+                <p>portobello mushroom, poached eggs, tomato, avocado, spinach, roasted fingerling potatoes, fresh hollandaise</p>
+                <p>22</p>
+              </li>
+              <li>
+                <h4>ahi tuna sandwich</h4>
+                <p>tomatoes provencales, aioli, tomato pesto, greens on toasted levain</p>
+                <p>22</p>
+              </li>
+              <li>
+                <h4>lemon ricotta raviolis</h4>
+                <p>caramelized leeks, wilted arugula, white wine, aged parmesan</p>
+                <p>19</p>
+              </li>
+              <li>
+                <h4>salade marius</h4>
+                <p>spinach, walnuts, gorgonzola cheese, roasted bosc pear, balsamic vinaigrette</p>
+                <p>18</p>
+              </li>
+            </ul>
+
+          <h3>Dinner</h3>
+
+            <ul>
+              <li>
+                <h4>keep clam and pasta on</h4>
+                <p>bucatini pasta, littleneck clams, mussels, bacon, corn, cremini mushroom, chili, white wine, poached garlic, pecorino, bread crumbs</p>
+                <p>28</p>
+              </li>
+              <li>
+                <h4>almond palmer chicken</h4>
+                <p>honey almond roasted roasted half chicken, tea melted leeks, pearl onions, jasmine soubise, lemony spring vegetables</p>
+                <p>32</p>
+              </li>
+              <li>
+                <h4>miso halibut</h4>
+                <p>miso maple soy glazed alaskan halibut, edamame scallion avocado smash, soba noodles, carrot, snap peas, radish, aromatic herbs, thai pickles, cayenne spiced peanuts, sesame soy vinaigrette</p>
+                <p>32</p>
+              </li>
+              <li>
+                <h4>double cut pork chop</h4>
+                <p>chamomile brined double cut pork chop, black beluga lentil, radish and sunflower sprouts salad, whipped labne, strawberry chile chutney</p>
+                <p>35</p>
+              </li>
+              <li>
+                <h4>a-maize-ing pasta</h4>
+                <p>bucatini, bacon, corn, cremini mushroom, leeks and greens, chili, white wine, poached garlic, pecorino, house ricotta, bread crumbs</p>
+                <p>25</p>
+              </li>
+              <li>
+                <h4>pesce misto</h4>
+                <p>salmon, calamari, sole, prawns, scallops, lemon olive oil sauce, yukon gold potato, sauteed broccoli</p>
+                <p>32</p>
+              </li>
+              <li>
+                <h4>conchiglie</h4>
+                <p>free range chicken, broccoli, sundried tomato, sherry wine</p>
+                <p>26</p>
+              </li>
+              <li>
+                <h4>go fish</h4>
+                <p>seared scallion mustard ahi tuna burger, charred jalapeño aioli, watercress, cilantro, cucumber and radish pickle, toasted brioche bun, fries</p>
+                <p>22</p>
+              </li>
+              <li>
+                <h4>ketofornia steak</h4>
+                <p>marinated flank steak, snow peas, cremini mushroom, sautéed zucchini, marcona almond cauliflower rice, aromatic herbs, house kimchi, hot and sour glaze</p>
+                <p>20</p>
+              </li>
+              <li>
+                <h4>ribeye burger</h4>
+                <p>all-natural beef burger, melted onions, aioli, lettuce, tomato, pickled onion, house fries</p>
+                <p>16</p>
+              </li>
+
+            </section>
+
+            <section>
+
+					<h1> About Us </h1>
+
+					<p>    Here at Rix, we aim to provide you with the best dining experience in a comfortable, casual and exciting environment. This resulted in wanting a place to share the best times with family and friends while being welcomed by the hospitality you’d come to expect from a fine eatery. We put a lot of great thought & pride into building a space where our guests would feel great to be a part of. We value the importance of knowing the source of our food and trust the ingredients we cook, serve and eat. Products that are raised and harvested locally, in a sustainable manner, will not only taste better, but will also be better for our environment, our health and our future.   </p>
+
+					<p>    [Workers smiling.] </p>
+
+            </section>
+
+            <section>
+
+          <h1> Contact & Hours </h1>
+
+  				<p>    Please feel free to send us a message for any questions you may have.   </p>
+
+          <p>    Email: info@rix.com
+
+  				<p>    [Map of location.] </p>
+
+          <p>    Hours </p>
+
+          <p>    Sunday – Thursday: 11:00 am – 9:00 pm </p>
+
+          <p>    Friday – Saturday: 11:00 am – 9:30 pm </p>
+
+          <p>    Happy Hour: Tuesday – Friday 2:00 pm – 5:00 pm </p>
+
+              </section>
+
+
+        </div>
+    </body>
+</html>
+
+<!--
+    Go back and delete each of my comments, making sure you have read and followed the instructions on each one of them. Once you’re done, delete this comment too.
+    -->
