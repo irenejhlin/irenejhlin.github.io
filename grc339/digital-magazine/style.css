@@ -12,6 +12,10 @@ aside {
   display: block;
 }
 
+section {
+  display: block;
+}
+
 p {
   font-family: proxima-nova, sans-serif;
   font-weight: 400;
