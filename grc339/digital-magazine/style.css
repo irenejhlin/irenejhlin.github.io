@@ -30,6 +30,10 @@ nav ul li{
   letter-spacing: .08em;
 }
 
+nav ul {
+  word-spacing: 1em;
+}
+
 nav ul li a {
   color: #5993ce;
   text-decoration: none;
