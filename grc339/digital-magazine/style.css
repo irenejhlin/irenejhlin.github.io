@@ -148,6 +148,11 @@ ul {
         margin: 0;
     }
 
+  section.mainstory p {
+        flex: 0 0 auto;
+        margin: 0;
+    }
+  
     aside {
         grid-column: 2/3;
     }
