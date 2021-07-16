@@ -8,19 +8,6 @@ font-weight: 400;
 font-style: normal;
 }
 
-aside a {
-  text-decoration: none;
-}
-
-p {
-  font-family: proxima-nova, sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  display: block;
-  margin: 0em 0em 3em 0em;
-  color: #2b2c2c;
-}
-
 h1 {
   width: 40%;
 }
@@ -39,6 +26,14 @@ h3 {
   color: #717178;
 }
 
+aside a {
+  text-decoration: none;
+}
+
+nav ul {
+  word-spacing: 1em;
+}
+
 nav ul li{
   display: inline;
   list-style-type: none;
@@ -46,11 +41,7 @@ nav ul li{
   font-weight: 700;
   font-style: normal;
   text-transform: uppercase;
-  letter-spacing: .08em;
-}
-
-nav ul {
-  word-spacing: 1em;
+  letter-spacing: .08 em;
 }
 
 nav ul li a {
@@ -68,8 +59,27 @@ main a {
 }
 
 div.container {
-    max-width: 40em;
+    max-width: 80em;
     margin: auto;
+}
+
+p {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: block;
+  margin: 0em 0em 2em 0em;
+  color: #2b2c2c;
+}
+
+aside {
+  display: block;
+}
+
+section {
+  display: block;
+  max-width: 40em;
+  margin: 0 auto 3em;
 }
 
 figure {
@@ -83,4 +93,64 @@ img {
 ul {
     list-style-type: none;
     padding: 0;
+}
+
+@media screen and (mid-width: 60em){
+
+    div.container {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        grid-gap: 0 1em;
+    }
+
+    header {
+        grid-column: 1/3;
+    }
+
+    main {
+        grid-column: 1/2;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 0 1em;
+    }
+
+    section.mainstory {
+        grid-column: 2/4;
+        grid-row: 1/3;
+        display: flex;
+        flex-direction: column;
+    }
+
+    section.mainstory figure {
+        flex: 1 0 18em;
+        display: flex;
+        flex-direction: column;
+    }
+
+    section.mainstory figure div {
+        flex: 1 0 18em;
+        background-image: url(digiartprompts.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    section.mainstory figure div img {
+        height: 100%
+        opacity: 0;
+    }
+
+    section.mainstory figure figcaption {
+        flex: 0 0 3em;
+    }
+
+    section.mainstory h3 {
+        flex: 0 0 auto;
+        margin: 0;
+    }
+
+    aside {
+        grid-column: 2/3;
+    }
+
 }
