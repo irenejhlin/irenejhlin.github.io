@@ -159,14 +159,6 @@ ul {
 
 }
 
-.mainstory {
-    margin: 0 0 2.5em 0;
-}
-
-.story {
-    margin: 0 0 2.5em 0;
-}
-
-.no-image-story {
+.mainstory, .story, .no-image-story {
     margin: 0 0 2.5em 0;
 }
