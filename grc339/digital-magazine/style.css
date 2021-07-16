@@ -94,7 +94,7 @@ ul {
     padding: 0;
 }
 
-@media screen and (mid-width: 60em){
+@media screen and (min-width: 60em){
 
     div.container {
         display: grid;
