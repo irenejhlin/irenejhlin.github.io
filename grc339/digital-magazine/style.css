@@ -2,6 +2,12 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+div.container-photos {
+  max-width: 55em;
+  margin: auto;
+  padding: 1em;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
