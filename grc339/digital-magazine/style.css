@@ -2,10 +2,26 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+nav {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+label {
+  flex: 1 0 10em;
+}
+
+input {
+  display: none;
+}
+
 figure.gallery {
   margin: auto;
+  width: 100%;
+  left: 100%;
+  opacity: 0;
   position: absolute;
-  transition: opacity .5s;
+  transition: left .5s;
 }
 
 main.photos {
