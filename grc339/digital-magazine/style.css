@@ -3,12 +3,13 @@
   @import url("https://use.typekit.net/fmq4urv.css");
 
 div.container-stories {
-    max-width: 55em;
+    max-width: 45em;
     margin: auto;
 }
 
 .container-stories {
     max-width: 55em;
+    margin: auto;
 }
 
 body {
