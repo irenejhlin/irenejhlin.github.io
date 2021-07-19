@@ -41,7 +41,7 @@ main.photos {
   margin: auto;
   position: relative;
   overflow: hidden;
-  padding-bottom: calc(60% + 3em);
+  padding-bottom: calc(50% + 20em);
 }
 
 input:nth-of-type(1):checked ~ main figure:nth-of-type(1),
