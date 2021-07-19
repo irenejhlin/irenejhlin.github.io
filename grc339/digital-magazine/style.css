@@ -105,6 +105,14 @@ ul {
 }
 
 @media screen and (min-width: 60em){
+  
+    div.container-stories {
+        max-width: 45em;
+        margin: auto;
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        grid-gap: 0 2em;
+    }
 
     div.container {
         display: grid;
