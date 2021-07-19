@@ -2,6 +2,10 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+.container-stories {
+    max-width: 30em;
+}
+
 body {
 font-family: proxima-nova, sans-serif;
 font-weight: 400;
