@@ -4,6 +4,11 @@
 
 div.container-stories {
     max-width: 55em;
+    margin: auto;
+}
+
+.container-stories {
+    max-width: 55em;
 }
 
 body {
