@@ -2,6 +2,10 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+main.newsletter {
+  margin: auto
+}
+
 section.personal-into ul li {
   display: flex;
   flex-wrap: wrap;
