@@ -2,6 +2,11 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+main.newsletter {
+  max-width: 55em;
+  background-color: #CADDEE
+}
+
 figcaption {
   font-style: italic;
 }
