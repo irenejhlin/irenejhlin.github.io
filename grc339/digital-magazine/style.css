@@ -9,7 +9,7 @@ div.container-photos {
 }
 
 nav {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
 }
 
