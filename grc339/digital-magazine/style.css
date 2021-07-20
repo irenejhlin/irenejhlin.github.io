@@ -2,9 +2,26 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
-main.newsletter {
-  max-width: 55em;
-  background-color: #CADDEE
+section.personal-into ul li {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+section.personal-info ul li input[type="text"],
+section ul li input[type="email"],
+section ul li select {
+  flex: 1 0 15em;
+  box-sizing: border-box;
+}
+
+section.checkbox ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section.checkbox ul li {
+  flex: 1 0 15em;
 }
 
 figcaption {
