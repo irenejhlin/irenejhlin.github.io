@@ -20,8 +20,8 @@ nav {
 nav.nav-photos {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  grid-gap: .5em;
-  margin: 0 0 3em 0;
+  grid-gap: 0em;
+  margin: 2em 0 3em 0;
 }
 
 label {
