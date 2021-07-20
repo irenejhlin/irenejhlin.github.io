@@ -2,6 +2,11 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+hr {
+  border-color: #CADDEE;
+  margin-bottom: 0;
+}
+
 div.container-photos {
   max-width: 55em;
   margin: auto;
