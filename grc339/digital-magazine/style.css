@@ -2,6 +2,15 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+div.container-newsletter {
+  max-width: 55em;
+  margin: auto
+}
+
+main.newsletter {
+  grid:none;
+}
+
 figcaption {
   font-style: italic;
 }
