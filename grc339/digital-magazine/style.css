@@ -2,6 +2,10 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+section.form {
+  margin: 0em 0em 2em 0em;
+}
+
 textarea {
   width: 90%;
   display: block;
