@@ -19,7 +19,7 @@ section.form {
 }
 
 textarea {
-  min-width: 35em;
+  min-width: 25em;
   min-height: 5em;
   display: block;
   font-family: proxima-nova, sans-serif;
