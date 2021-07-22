@@ -41,7 +41,7 @@ label {
   flex: 1 0 10em;
 }
 
-input {
+input.gallery-photos {
   display: none;
 }
 
