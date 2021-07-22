@@ -9,7 +9,6 @@ section.form {
 textarea {
   min-width: 35em;
   min-height: 5em;
-  width: 90%;
   display: block;
   font-family: proxima-nova, sans-serif;
   font-weight: 400;
