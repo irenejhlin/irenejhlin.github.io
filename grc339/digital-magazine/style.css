@@ -8,13 +8,13 @@ button {
   background-color: #4c62ad;
   border: none;
   color: #FFFFFF;
-  text-align: center;
-  font-size: 28px;
+  text-align: left;
+  font-size: 15px;
+  font-family: proxima-nova, sans-serif;
   padding: 20px;
-  width: 200px;
+  width: 250px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
 }
 
 button span {
