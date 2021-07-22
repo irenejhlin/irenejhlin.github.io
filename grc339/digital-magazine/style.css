@@ -2,6 +2,14 @@
 
   @import url("https://use.typekit.net/fmq4urv.css");
 
+textarea {
+  width: 90%;
+  display: block;
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 div.container-newsletter {
   max-width: 55em;
   margin: auto
